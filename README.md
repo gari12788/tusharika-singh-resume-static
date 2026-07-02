@@ -1,5 +1,7 @@
-# Tusharika Singh Resume
+# Duplicate and Editable Design
 
-Editable resume template published with GitHub Pages.
+Static GitHub Pages deployment generated from:
 
-The live page is browser-editable: click text on the resume and type to make a local copy. Browser edits are not automatically saved back to GitHub Pages. To make permanent changes to the public site, edit `index.html` in this repository and commit the update.
+`/home/garima/Downloads/Duplicate and Editable Design`
+
+The live page is a static Vite build. It can contain browser-editable UI behavior, but there is no backend or database. Any edits visitors make in the browser are local to them unless the repository is updated and redeployed.
